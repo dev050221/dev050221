@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dev050221
 - 👀 I’m interested in tinkering with technology
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Docker
 - 📫 How to reach me: dev050221 at protonmail dot ch
 
 <!---
